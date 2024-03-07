@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-reboot",
+  "version": "1.0.0",
+  "description": "My Porfolio Redesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./jd.css -o ./styles/portfolio.css --watch"
+  },
+  "keywords": [
+    "css",
+    "flex",
+    "grid",
+    "html",
+    "javascript",
+    "dom"
+  ],
+  "author": "Ogo Joshua",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
