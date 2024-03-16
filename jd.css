@@ -17,3 +17,7 @@
 .cardt{
     @apply transform hover:backdrop-grayscale-0 hover:scale-125 transition ease-out duration-300 
 }
+
+.gridsec{
+    @apply transform hover:backdrop-grayscale-0 hover:scale-90 transition ease-out duration-300
+}
